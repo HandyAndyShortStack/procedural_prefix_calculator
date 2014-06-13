@@ -1,0 +1,1 @@
+This is a fairly incomplete Polish notation to standard notation transliterator.  the `parsePrefix` function takes a string describing a mathematical operation in Polish notation and returns a string describing the same operation in standard notation.  The output should be suitable for use with `eval`.
